@@ -1,4 +1,4 @@
-# pr-sentation-graphdatenbanken-mit-ptython-nutzten
+# Präsentation Graphdatenbanken mit Python nutzten
 Repository zum Vortrag am 09.11.2016 (PyColone)
 
 
